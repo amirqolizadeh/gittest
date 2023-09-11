@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 my Data02
 slm
 slm02
 
 
+=======
+data base
+slm
+khobi
+>>>>>>> 8ffbce57a66cf9e5ccdcdfe40159fcf73ddef1ee
